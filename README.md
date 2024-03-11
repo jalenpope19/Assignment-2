@@ -3,6 +3,7 @@
 This repository contains a Python implementation of a backtracking algorithm to solve Sudoku puzzles.
 
 Compiling Code
+
 Visual Studio Code is an editor that uses the Microsoft platform's compiler. It supports development operations, such as debugging, task running, and version control.
 
 Executing Code
