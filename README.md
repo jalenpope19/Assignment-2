@@ -19,9 +19,11 @@ Variables:
 -Each cell in the 9x9 grid represents a variable (81 variables) because they are subject to change when trying to successfully solve the puzzle. 
 
 Domains:
+
 -The domain for each of the variables is a number range between 1 and 9. 
 
 Constraints: 
+
 -The digits in the starting configuration must remain the same.
 
 -Each variable in a row must have a different value between 1 and 9. The variable should only appear 1 time.
