@@ -1,6 +1,6 @@
 # Assignment-2
 
-This repository contains a Python implementation of a backtracking algorithm to solve Sudoku puzzles.
+This repository contains a Python implementation of simple and smart backtracking algorithms to solve various levels of Sudoku puzzles.
 
 Compiling Code
 
