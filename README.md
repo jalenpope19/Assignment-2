@@ -15,6 +15,7 @@ Executing Code
 IMPORTANT FACTORS OF SOLVING THE SUDOKU PUZZLES
 
 Variables:
+
 -Each cell in the 9x9 grid represents a variable (81 variables) because they are subject to change when trying to successfully solve the puzzle. 
 
 Domains:
@@ -22,6 +23,9 @@ Domains:
 
 Constraints: 
 -The digits in the starting configuration must remain the same.
+
 -Each variable in a row must have a different value between 1 and 9. The variable should only appear 1 time.
+
 -Each variable in a column must have a different value between 1 and 9. The variable should only appear 1 time.
+
 -Each variable in the 3x3 grids within the board must have a different value between 1 and 9. The variable should only appear 1 time.
