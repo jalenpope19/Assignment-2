@@ -13,6 +13,7 @@ Executing Code
 - The total number of assignments made during solving and the running time in seconds will show after the solved board.
 
 IMPORTANT FACTORS OF SOLVING THE SUDOKU PUZZLES
+
 Variables:
 -Each cell in the 9x9 grid represents a variable (81 variables) because they are subject to change when trying to successfully solve the puzzle. 
 
